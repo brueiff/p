@@ -4,7 +4,7 @@ $Cadastro = array ("maria",30,1.8,true);
 
 //$cadastro = array ("nome"=>"maria da silva<br>");
 
-
+echo ("rarar")
 
 //var_dump($cadastro);
 var_dump($Cadastro);
