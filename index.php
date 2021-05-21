@@ -8,7 +8,7 @@ $Cadastro = array ("maria",30,1.8,true);
 
 //var_dump($cadastro);
 var_dump($Cadastro);
-$tamanho = cont($Cadastro);
+$tamanho = count($Cadastro);
 
 for ($i=0; $i < $tamanho; $i++) {
 echo $Cadastro[$i];
