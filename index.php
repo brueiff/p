@@ -6,7 +6,7 @@ $Cadastro = array ("maria",30,1.8,true);
 
 echo ("rarar")
 
-//var_dump($cadastro);
+//var_dump($cadastro);.
 var_dump($Cadastro);
 $tamanho = count($Cadastro);
 
